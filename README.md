@@ -93,7 +93,7 @@
 ----
 ## Repositories index
 
-<br/>https://chemokita13
+<br/>
 
 ### <div id='React.js and Next.js'>React.js and Next.js
 
