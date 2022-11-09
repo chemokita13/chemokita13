@@ -97,34 +97,34 @@
 
 ### <div id='React.js and Next.js'>React.js and Next.js
 
-- [Pokedex (Next.js)](https://chemokita13/Pokedex_nextjs)
-- [Weather (React.js)](https://chemokita13/weather_reactjs)
+- [Pokedex (Next.js)](https://github.com/chemokita13/Pokedex_nextjs)
+- [Weather (React.js)](https://github.com/chemokita13/weather_reactjs)
 
 
 <br/>
 
 ### <div id='React native'> React Native
 
-- [Pexels.com app](https://chemokita13/Pexels.com-galery_react-native)
--  [Crypto prizes](https://chemokita13/cryptos_react-native)
+- [Pexels.com app](https://github.com/chemokita13/Pexels.com-galery_react-native)
+-  [Crypto prizes](https://github.com/chemokita13/cryptos_react-native)
 
 
 <br/>
 
 ### <div id='Node.js (express, handlebars...)'>Node.js (express, handlebars...)
 
-- [Notes app](https://chemokita13/notenet)
+- [Notes app](https://github.com/chemokita13/notenet)
 
 <br/>
 
 ### <div id='Others'>Others
 
-- [Django password generator](https://chemokita13/password-generator_django)
-- [Electron.js html-reader using monaco editor](https://chemokita13/html-reader_electron)
-- [Tensorflow detect numbers IA](https://chemokita13/detectNumbers_Tensorflow.js)
-- [Python calculator](https://chemokita13/calculator_python)
-- [Python shell snake game](https://chemokita13/snakeGame_python)
-- [C++ sell snake game](https://chemokita13/snakeGame_cpp)
+- [Django password generator](https://github.com/chemokita13/password-generator_django)
+- [Electron.js html-reader using monaco editor](https://github.com/chemokita13/html-reader_electron)
+- [Tensorflow detect numbers IA](https://github.com/chemokita13/detectNumbers_Tensorflow.js)
+- [Python calculator](https://github.com/chemokita13/calculator_python)
+- [Python shell snake game](https://github.com/chemokita13/snakeGame_python)
+- [C++ sell snake game](https://github.com/chemokita13/snakeGame_cpp)
 
 <br/>
 
