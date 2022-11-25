@@ -99,6 +99,7 @@
 - [Video links (MERN typescript)](https://github.com/chemokita13/video-web_mern-typescript)
 - [Pokedex (Next.js)](https://github.com/chemokita13/Pokedex_nextjs)
 - [Weather (React.js)](https://github.com/chemokita13/weather_reactjs)
+- [Random cats generator](https://github.com/chemokita13/RandomCats_reactjs)
 
 
 <br/>
