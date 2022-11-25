@@ -115,6 +115,8 @@
 ### <div id='Node.js (express, handlebars...)'>Node.js (express, handlebars...)
 
 - [Notes app](https://github.com/chemokita13/notenet)
+- [Nest.js restAPI mongoDB](https://github.com/chemokita13/nestjs_mongodb_restAPI)
+- [Nest.js restAPI graphQL typeORM](https://github.com/chemokita13/Nestjs_graphql_typeorm)
 
 <br/>
 
