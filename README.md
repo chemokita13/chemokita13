@@ -123,6 +123,7 @@
 
 ### <div id='Others'>Others
 
+- [Deno express restAPI CRUD](https://github.com/chemokita13/deno-express-mongodb-tasksapp)
 - [Django password generator](https://github.com/chemokita13/password-generator_django)
 - [Electron.js html-reader using monaco editor](https://github.com/chemokita13/html-reader_electron)
 - [Tensorflow detect numbers IA](https://github.com/chemokita13/detectNumbers_Tensorflow.js)
