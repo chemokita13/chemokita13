@@ -94,7 +94,7 @@
 
 <br/>
 
-### <div id='React.js and Next.js'>React.js and Next.js
+### <div id='React.js-and-Next.js'>React.js and Next.js
 
 - [Real time TikTakToe (nextjs, socket.io)](https://github.com/chemokita13/next.js-socket.js-TikTakToe)
 - [Video links (MERN typescript)](https://github.com/chemokita13/video-web_mern-typescript)
@@ -106,7 +106,7 @@
 
 <br/>
 
-### <div id='React native'> React Native
+### <div id='React-native'> React Native
 
 - [Pexels.com app](https://github.com/chemokita13/Pexels.com-galery_react-native)
 -  [Crypto prizes](https://github.com/chemokita13/cryptos_react-native)
@@ -114,7 +114,7 @@
 
 <br/>
 
-### <div id='Node.js (express, handlebars...)'>Node.js (express, handlebars...)
+### <div id='Node.js-(express,-handlebars...)'>Node.js (express, handlebars...)
 
 - [Notes app](https://github.com/chemokita13/notenet)
 - [Nest.js restAPI mongoDB](https://github.com/chemokita13/nestjs_mongodb_restAPI)
