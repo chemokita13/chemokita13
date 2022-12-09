@@ -14,9 +14,9 @@
 ## My proyects
 
 <!--- <a href="https://github.com/chemokita13/notenet"> My best proyect (node.js, express, mongodb, nginx and more)-->
-- <a href='#React.js and Next.js'>React.js and Next.js</a>
-- <a href='#React native'>React native</a>
-- <a href='#Node.js (express, handlebars...)'> Node.js (express, handlebars...)</a>
+- <a href='#React.js-and-Next.js'>React.js and Next.js</a>
+- <a href='#React-native'>React native</a>
+- <a href='#Node.js-(express,-handlebars...)'> Node.js (express, handlebars...)</a>
 - <a href='#Others'> Others</a>
 
 <br/>
