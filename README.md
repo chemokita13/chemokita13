@@ -14,10 +14,10 @@
 ## My proyects
 
 <!--- <a href="https://github.com/chemokita13/notenet"> My best proyect (node.js, express, mongodb, nginx and more)-->
-- <a href='#React.js-and-Next.js'>React.js and Next.js</a>
-- <a href='#React-native'>React native</a>
-- <a href='#Node.js-(express,-handlebars...)'> Node.js (express, handlebars...)</a>
-- <a href='#Others'> Others</a>
+- <a href='#1'>React.js and Next.js</a>
+- <a href='#2'>React native</a>
+- <a href='#3'> Node.js (express, handlebars...)</a>
+- <a href='#4'> Others</a>
 
 <br/>
 
@@ -94,7 +94,7 @@
 
 <br/>
 
-### <div id='React.js-and-Next.js'>React.js and Next.js
+### <div id='1'>React.js and Next.js
 
 - [Real time TikTakToe (nextjs, socket.io)](https://github.com/chemokita13/next.js-socket.js-TikTakToe)
 - [Video links (MERN typescript)](https://github.com/chemokita13/video-web_mern-typescript)
@@ -106,7 +106,7 @@
 
 <br/>
 
-### <div id='React-native'> React Native
+### <div id='2'> React Native
 
 - [Pexels.com app](https://github.com/chemokita13/Pexels.com-galery_react-native)
 -  [Crypto prizes](https://github.com/chemokita13/cryptos_react-native)
@@ -114,7 +114,7 @@
 
 <br/>
 
-### <div id='Node.js-(express,-handlebars...)'>Node.js (express, handlebars...)
+### <div id='3'>Node.js (express, handlebars...)
 
 - [Notes app](https://github.com/chemokita13/notenet)
 - [Nest.js restAPI mongoDB](https://github.com/chemokita13/nestjs_mongodb_restAPI)
@@ -122,7 +122,7 @@
 
 <br/>
 
-### <div id='Others'>Others
+### <div id='4'>Others
 
 - [Deno express restAPI CRUD](https://github.com/chemokita13/deno-express-mongodb-tasksapp)
 - [Django password generator](https://github.com/chemokita13/password-generator_django)
