@@ -102,6 +102,7 @@
 - [Video links (MERN typescript)](https://github.com/chemokita13/video-web_mern-typescript)
 - [Real time chat (express, socket.io, tailwind)](https://github.com/chemokita13/socket.io-react-expres_chat)
 - [Pokedex (Next.js)](https://github.com/chemokita13/Pokedex_nextjs)
+- [Ricky and Morty characters (vitejs(react) and tailwindcss)](https://github.com/chemokita13/ricky-and-mortyAPI_reactwithvitejs)
 - [Weather (React.js)](https://github.com/chemokita13/weather_reactjs)
 - [Random cats generator](https://github.com/chemokita13/RandomCats_reactjs)
 
