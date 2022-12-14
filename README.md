@@ -16,7 +16,7 @@
 <!--- <a href="https://github.com/chemokita13/notenet"> My best proyect (node.js, express, mongodb, nginx and more)-->
 - <a href='#1'>React.js and Next.js</a>
 - <a href='#2'>React native</a>
-- <a href='#3'> Node.js (express, handlebars...)</a>
+- <a href='#3'> Node.js (express, handlebars, angular...)</a>
 - <a href='#4'> Others</a>
 
 <br/>
@@ -121,11 +121,12 @@
   <div id='3'>
 <br/>
 
-### Node.js (express, handlebars...)
+### Node.js (express, handlebars, angular...)
 
 - [Notes app](https://github.com/chemokita13/notenet)
 - [Nest.js restAPI mongoDB](https://github.com/chemokita13/nestjs_mongodb_restAPI)
 - [Nest.js restAPI graphQL typeORM](https://github.com/chemokita13/Nestjs_graphql_typeorm)
+- [Angular games library (express, mySQL)](https://github.com/chemokita13/angular-mysql-CRUD)
 
 <br/>
     <div id='4'>
