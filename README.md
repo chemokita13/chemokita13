@@ -99,6 +99,7 @@
 ### React.js and Next.js
 
 - [Real time TikTakToe (nextjs, socket.io)](https://github.com/chemokita13/next.js-socket.js-TikTakToe)
+- [Electron.js & react.js html-reader using monaco editor](https://github.com/chemokita13/html-editor-viewer_electron)
 - [Video links (MERN typescript)](https://github.com/chemokita13/video-web_mern-typescript)
 - [Real time chat (express, socket.io, tailwind)](https://github.com/chemokita13/socket.io-react-expres_chat)
 - [Pokedex (Next.js)](https://github.com/chemokita13/Pokedex_nextjs)
@@ -134,7 +135,6 @@
 
 ### Others
 
-- [Electron.js html-reader using monaco editor](https://github.com/chemokita13/html-editor-viewer_electron)
 - [Deno express restAPI CRUD](https://github.com/chemokita13/deno-express-mongodb-tasksapp)
 - [Django password generator](https://github.com/chemokita13/password-generator_django)
 - [Tensorflow detect numbers IA](https://github.com/chemokita13/detectNumbers_Tensorflow.js)
