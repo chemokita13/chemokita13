@@ -5,8 +5,8 @@
 
 # <div align="center">Hi! I'm Jose Maria, a full-stack freelance developer 👨‍💻 learning since 2019 🚀</div>  
   
-
-- 🌱 I’m currently learning next.js and react.js ⚛️  
+- 📃 I'm actually updating my [portfolio](https://josemariapahino.me) 📋
+- ⚛️ I’m currently learning next.js and docker 🐋
   
 <br/>  
 
