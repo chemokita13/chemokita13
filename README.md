@@ -5,8 +5,8 @@
 
 # <div align="center">Hi! I'm Jose Maria, a full-stack freelance developer 👨‍💻 learning since 2019 🚀</div>  
   
-- 📃 I'm actually updating my [portfolio](https://josemariapahino.me) 📋
-- ⚛️ I’m currently learning next.js and docker 🐋
+- 📃 I'm actually creating a [BeReal API](https://github.com/chemokita13/NodeBeFakeAPI) 📋
+- ⚛️ I’m currently learning kubernetes and docker 🐋
   
 <br/>  
 
@@ -100,6 +100,7 @@
 
 ### React.js and Next.js
 
+- [Minecraft clone (React.js)](https://github.com/chemokita13/minecraft-reactjs)
 - [Real time TikTakToe (nextjs, socket.io)](https://github.com/chemokita13/next.js-socket.js-TikTakToe)
 - [Electron.js & react.js html-reader using monaco editor](https://github.com/chemokita13/html-editor-viewer_electron)
 - [Video links (MERN typescript)](https://github.com/chemokita13/video-web_mern-typescript)
