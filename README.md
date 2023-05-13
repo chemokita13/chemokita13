@@ -90,6 +90,14 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chemokita13&theme=tokyonight&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
+  
+___
+  
+## Donate
+  - You can make me a _ETH_ transfer if you want:
+```
+  3bb34ae4f91774003a8f6a42b5f39bdd8d09f1f467f7e556f2c1bdea5d8c0dc6
+```
 
 ----
 ## Repositories index
