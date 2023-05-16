@@ -5,7 +5,7 @@
 
 # <div align="center">Hi! I'm Jose Maria, a full-stack hobbie developer 👨‍💻 <br> learning since 2019 🚀</div>  
   
-- 📃 I'm actually creating a [BeReal API](https://github.com/chemokita13/NodeBeFakeAPI) 📋
+- 📃 I'm actually performing my [BeReal API](https://github.com/chemokita13/beReal-api) 📋
 - ⚛️ I’m currently learning kubernetes and docker 🐋
   
 <br/>  
