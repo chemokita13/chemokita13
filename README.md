@@ -3,7 +3,7 @@
 
   
 
-# <div align="center">Hi! I'm Jose Maria, a full-stack hobbie developer 👨‍💻 <br> learning since 2019 🚀</div>  
+# Hi! I'm Jose Maria, a full-stack hobbie developer 👨‍💻 <br> learning since 2019 🚀
   
 - 📃 I'm actually performing my [BeReal API](https://github.com/chemokita13/beReal-api) 📋
 - ⚛️ I’m currently learning kubernetes and docker 🐋
@@ -12,8 +12,7 @@
 
 
 ## My proyects
-
-<!--- <a href="https://github.com/chemokita13/notenet"> My best proyect (node.js, express, mongodb, nginx and more)-->
+  
 - <a href='#1'>React.js and Next.js</a>
 - <a href='#2'>React native</a>
 - <a href='#3'> Node.js (express, handlebars, angular...)</a>
