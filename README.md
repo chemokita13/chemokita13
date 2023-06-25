@@ -25,11 +25,11 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chemokita13&theme=tokyonight&hide_border=true&layout=compact" align="center" /></div>  
-
+## Github Stats 
+  <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chemokita13&theme=tokyonight&hide_border=true&layout=compact"  /></div>  
+  <div ><img src="https://github-readme-stats.vercel.app/api?username=chemokita13&show_icons=true&theme=tokyonight&hide_border=true"  /></div>  
 <br/>  
-  
+
 ___
   
 ## Donate
@@ -37,6 +37,7 @@ ___
 ```
   3bb34ae4f91774003a8f6a42b5f39bdd8d09f1f467f7e556f2c1bdea5d8c0dc6
 ```
+
 
 
 <!-- 
