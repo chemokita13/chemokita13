@@ -10,7 +10,36 @@
   
 <br/>  
 
+## Contact me 
+### - Contact with me in [my portolio's form](https://josemariapahino.me)
+<div align="center">
+<a href="https://github.com/chemokita13" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/jos%C3%A9-mar%C3%ADa-pahino-leibu-588303242" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
 
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chemokita13&theme=tokyonight&hide_border=true&layout=compact" align="center" /></div>  
+
+<br/>  
+  
+___
+  
+## Donate
+  - You can make me a _ETH_ transfer if you want:
+```
+  3bb34ae4f91774003a8f6a42b5f39bdd8d09f1f467f7e556f2c1bdea5d8c0dc6
+```
+
+
+<!-- 
 ## My proyects
   
 - <a href='#1'>React.js and Next.js</a>
@@ -155,5 +184,5 @@ ___
 <br/>
 
 ___
-
 Thanks for view!
+-->
