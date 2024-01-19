@@ -35,11 +35,15 @@
 ___
   
 ## Donate
-  - You can make me a _ETH_ transfer if you want:
+  ### PayPal
+You can buy me a cofee by PayPal:
+  -   https://paypal.me/chemokita
+  -   email: chemokita13@gmail.com
+  ### ETH
+You can make me a _ETH_ transfer if you want:
 ```
   3bb34ae4f91774003a8f6a42b5f39bdd8d09f1f467f7e556f2c1bdea5d8c0dc6
 ```
-
 
 
 <!-- 
