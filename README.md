@@ -26,8 +26,8 @@
 
 
 ## Stats 
-  <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chemokita13&theme=tokyonight&hide_border=true&layout=compact"  /></div>  
-  <div ><img src="https://github-readme-stats.vercel.app/api?username=chemokita13&show_icons=true&theme=tokyonight&hide_border=true"  /></div>  
+  <div><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=chemokita13&theme=tokyonight&hide_border=true&layout=compact"  /></div>  
+  <div ><img src="https://github-stats-extended.vercel.app/api?username=chemokita13&show_icons=true&theme=tokyonight&hide_border=true"  /></div>  
   <div><img src="https://tryhackme-badges.s3.amazonaws.com/chemokita13.png" alt="TryHackMe"></div>
 <br/>  
 
