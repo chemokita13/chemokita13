@@ -3,9 +3,9 @@
 
   
 
-# Hi! I'm Jose Maria, a full-stack hobbie developer 👨‍💻 <br> learning since 2019 🚀 🇪🇸
+# Hi! I'm Jose Maria, a full-stack developer 👨‍💻 <br> learning since 2019 🚀 🇪🇸
   
-- 📃 I'm actually learning in UVa (Universidad de Valladolid) 📋
+- 📃 I'm currently studying Computer Science at UVa (Universidad de Valladolid) 📋
   
 <br/>  
 
@@ -26,7 +26,7 @@
 
 
 ## Stats 
-  <div><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=chemokita13&theme=tokyonight&hide_border=true&layout=compact"  /></div>  
+
   <div ><img src="https://github-stats-extended.vercel.app/api?username=chemokita13&show_icons=true&theme=tokyonight&hide_border=true"  /></div>  
   <div><img src="https://tryhackme-badges.s3.amazonaws.com/chemokita13.png" alt="TryHackMe"></div>
 <br/>  
